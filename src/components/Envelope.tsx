@@ -45,7 +45,7 @@ const Envelope: React.FC<EnvelopeProps> = () => {
           }
           return prevIndex + 1;
         });
-      }, 2000);
+      }, 3000);
 
       setTimeout(() => {
         setCurrentPhotoIndex(0);
