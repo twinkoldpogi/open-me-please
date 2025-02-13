@@ -49,7 +49,7 @@ const Envelope: React.FC<EnvelopeProps> = () => {
 
       setTimeout(() => {
         setCurrentPhotoIndex(0);
-      }, 2000);
+      }, 4000);
 
       return () => clearInterval(interval);
     }
