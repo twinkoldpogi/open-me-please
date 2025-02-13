@@ -337,9 +337,10 @@ const Envelope: React.FC<EnvelopeProps> = () => {
                       transition={{ duration: 0.8 }}
                       style={{ marginTop: "40px" }}
                     >
-                      <p className="heading-text text-xl text-pink-500 mb-8 text-justify leading-relaxed">
-                        To more love and heart’s day with you love! Happy
-                        Valentine’s Day! ♥️
+                      <p className="heading-text text-xl text-pink-500 mb-8 text-center leading-relaxed">
+                        To more love and heart’s day with you love! 
+                        <br/>
+                        Happy Valentine’s Day! ♥️
                       </p>
 
                       <button
